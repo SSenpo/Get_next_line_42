@@ -7,18 +7,3 @@ interesting new concept in C programming: static variables, and to gain a deeper
 understanding of allocations, whether they happen on the stack memory or in the
 heap memory, the manipulation and the life cycle of a buffer, the unexpected
 complexity implied in the use of one or many static variables.
-
-## Getting Started
-
-### Compiling
-
-Run the following commands:
-
-* To compile
-	- `make`
-* To remove objects:
-	- `make clean`
-* To remove objects and binary file (program):
-	- `make fclean`
-* To re-compile:
-	- `make re`
